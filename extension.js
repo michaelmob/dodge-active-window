@@ -22,8 +22,7 @@ function dodgeWindow(focusedWindow, aboveActor) {
       focusedRect.x + focusedRect.width > aboveRect.x &&
       focusedRect.y < aboveRect.y + aboveRect.height &&
       focusedRect.y + focusedRect.height > aboveRect.y
-    ) ||
-    aboveRect.width > focusedRect.width
+    )
   )
     return;
 
