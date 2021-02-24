@@ -1,0 +1,7 @@
+{
+  "name": "Get out of the way!",
+  "description": "Push 'Always-on-Top' windows out of the way of the focused window.",
+  "uuid": "get-out-of-the-way@michaelmob.com",
+  "version": "0.0.1",
+  "shell-version": ["3.38"]
+}
